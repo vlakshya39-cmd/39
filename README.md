@@ -56,8 +56,8 @@ Day39/
 │   ├── home.png
 │   ├── splitter.png
 │   ├── merger.png
-│   ├── preview.png
-│   └── output.png
+│   
+│   
 │
 ├── processed-pdfs/
 │   ├── split.pdf
@@ -86,23 +86,17 @@ No installation or backend server is required.
 
 ### Home Interface
 
-> Add application homepage screenshot here.
+![Home Interface](Screenshot 2026-07-09 100901.png)
 
 ### PDF Splitter
 
-> Add splitter interface screenshot here.
+![PDF Splitter](Screenshot 2026-07-09 100943.png)
 
 ### PDF Merger
 
-> Add merger interface screenshot here.
+![PDF Merger](Screenshot 2026-07-09 101113.png)
 
-### PDF Preview
 
-> Add preview screenshot here.
-
-### Output Files
-
-> Add processed PDF screenshots here.
 
 ---
 
