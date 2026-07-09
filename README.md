@@ -86,15 +86,15 @@ No installation or backend server is required.
 
 ### Home Interface
 
-![Home Interface](Screenshot 2026-07-09 100901.png)
+![Home Interface](Screenshot%2026-07-09%100901.png)
 
 ### PDF Splitter
 
-![PDF Splitter](Screenshot 2026-07-09 100943.png)
+![PDF Splitter](Screenshot%2026-07-09%100943.png)
 
 ### PDF Merger
 
-![PDF Merger](Screenshot 2026-07-09 101113.png)
+![PDF Merger](Screenshot%2026-07-09%101113.png)
 
 
 
